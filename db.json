@@ -1,14 +1,35 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "error": {
+    "code": 0,
+    "message": "Giao dịch thành công",
+    "domain": "zpi",
+    "payload": "",
+    "details": []
+  },
+  "data": [
+    {
+      "zaloID": "1006850912025053106",
+      "displayName": "Duy Musica",
+      "avatar": "https://s120-ava-talk.zadn.vn/b/2/9/7/65/120/60447fe85c059718a4c6795b7b69160a.jpg",
+      "hasZaloPay": true,
+      "phone": "0123456789",
+      "zpp": "Bewbkcgrf1Dl4XPGdy37bNd1OGqYN8vqsB4eB46F5I13iSEkJsA8CqyvmFJNABeldYeLpT5b1eLmsC+5fK2p7JlG55dEISHduHUwQlEVTXK/cIPNYQt2mGyeIoH/1rLbps6KHNXBwu1owNvAhvT9nPv3utqFajKnAGJOUiZn+1K2LiDdFwgvPucZ1AyFEFNstmSsxWG/vZOjov6PSSIbZEi/2DWFHbllrgkSUBzdmnkszAd07zO4VeTLwjpLvR/U"
+    },
+    {
+      "zaloID": "7353927455793945413",
+      "displayName": "Nguyễn Phong Nhã",
+      "avatar": "https://s120-ava-talk.zadn.vn/9/9/0/4/32/120/49c227aa76bb7a02653ecab118e2e127.jpg",
+      "hasZaloPay": true,
+      "phone": "0123456789",
+      "zpp": "Bewbkcgrf1Dl4XPGdy37bNd1OGqYN8vqsB4eB46F5I1FsjNHJi5w0wVDcGOSXKf66vRt3JFFVjQeyHxA0dg9eqoI8j/aLLkeAF/qSdon3VH8BfvgXW9meQsUiIJ4SWmBvqk4ZC0DBAh9n7kUrNmvmb4qNGpOOyNyBEny0E7E6ngF33ll53FcarBjkiu3fOHKz2QuvkGlNPSgS5+tkzpnDYDF/7lbS8glEAWmo+1jlWF4fkwb4kEb9q9jqR6gIzBiprI0xZxCuq3LEAXngDGQ2w=="
+    },
+    {
+      "zaloID": "4465247964293904828",
+      "displayName": "K",
+      "avatar": "https://s120-ava-talk.zadn.vn/6/4/8/f/105/120/6649a8a0b92df44ec350efbb5001869a.jpg",
+      "hasZaloPay": true,
+      "phone": "0123456789",
+      "zpp": "Bewbkcgrf1Dl4XPGdy37bNd1OGqYN8vqsB4eB46F5I0MjF7KoXxvDfhtxbVWzISP4wkLHCp1C/WQ2wTiN16psJFjZGsY+tO6Jf6bovsd8Wg6U8+fxykbnZqsomcNCsc9/Db43FB5/qZBl6+2C0YsSwFpkFVhQmfXSb7j3CoNUjMQqLl+oaj2Dpf+IO5QP2n1eEWNlH/CkDFaSKswEVpGoPzMTiqSiy43ZuxNEEePmcF/s62v3yOaxwq0ek6vbPCl"
+    }
+  ]
 }

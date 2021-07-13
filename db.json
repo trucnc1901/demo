@@ -9,7 +9,7 @@
   "data": [
     {
       "zaloID": "124",
-      "displayName": "user 1",
+      "displayName": "A1",
       "avatar": "https://s120-ava-talk.zadn.vn/b/2/9/7/65/120/60447fe85c059718a4c6795b7b69160a.jpg",
       "hasZaloPay": true,
       "phone": "0123456787",
@@ -17,7 +17,7 @@
     },
     {
       "zaloID": "123",
-      "displayName": "user 2",
+      "displayName": "A2",
       "avatar": "https://s120-ava-talk.zadn.vn/9/9/0/4/32/120/49c227aa76bb7a02653ecab118e2e127.jpg",
       "hasZaloPay": true,
       "phone": "0123456788",
@@ -25,7 +25,7 @@
     },
     {
       "zaloID": "125",
-      "displayName": "user 3",
+      "displayName": "A3",
       "avatar": "https://s120-ava-talk.zadn.vn/6/4/8/f/105/120/6649a8a0b92df44ec350efbb5001869a.jpg",
       "hasZaloPay": true,
       "phone": "0123456789",

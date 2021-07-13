@@ -1,7 +1,7 @@
 {
   "error": {
     "code": 0,
-    "message": "API transfer money by phone",
+    "message": "Giao dịch thành công",
     "domain": "zpi",
     "payload": "",
     "details": []
